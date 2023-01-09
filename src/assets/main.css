@@ -2,9 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  color: #fff;
 }
 
 #app {
+  background: #1E1E1E;
   font-family: "Heebo", sans-serif;
   line-height: 1;
   font-weight: 400;
