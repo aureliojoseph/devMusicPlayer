@@ -6,14 +6,20 @@ Neste projeto desenvolvi um player de música personalizado.
 
 ## Linguagens e Features utilizadas:
 
+### VueJs 3
+
 ```sh
-Vue Js 3
+https://vuejs.org/
 ```
+
+### Element Plus - a Vue 3 based component library for designers and developers
+
 ```sh
-Element Plus - a Vue 3 based component library for designers and developers
-> https://element-plus.org/en-US/
+https://element-plus.org/en-US/
 ```
+
+### Phosphor Icons
+
 ```sh
-Phosphor Icons
-> https://phosphoricons.com/
+https://phosphoricons.com/
 ```
