@@ -2,8 +2,8 @@
   <div class="the__player">
     <app-player-mobile />
     <div class="the__player--sizes">
-      <!-- <app-player-medium />
-      <app-player-mini /> -->
+      <app-player-medium />
+      <app-player-mini />
     </div>
   </div>
 </template>
@@ -31,5 +31,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 60px
+  }
+
+  .the__player--sizes {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
   }
 </style>

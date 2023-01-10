@@ -44,7 +44,7 @@
   }
 
   .player__mobile {
-    width: 266.48px;
+    width: 270px;
     height: 498px;
     background: #213541;
     border-radius: 9px;
@@ -70,15 +70,6 @@
     margin-bottom: 10px;
   }
 
-  .mobile-favorite {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .mobile-favorite img {
-    width: 20px;
-  }
-
   .mobile-band {
     font-weight: 400;
     font-size: 16px;
@@ -88,6 +79,7 @@
 
   .player__mobile--actions {
     display: flex;
+    justify-content: center;
     gap: 50px;
     margin-bottom: 29px;
   }
@@ -108,7 +100,7 @@
   }
   
   :deep(.el-progress-bar__inner:hover) {
-    background-color: rgba(33, 53, 65, 0.4);
+    background-color: rgba(16, 26, 32, 0.8);
   }
 
   .mobile-time {
